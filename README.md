@@ -1,9 +1,9 @@
-# 🇮🇳 ProspectSearchAgent
+#  ProspectSearchAgent
 
 A Python-based intelligent prospecting agent that automatically identifies potential **Indian customers** by querying multiple data sources and matching them against your **Ideal Customer Profile (ICP)**.
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 ![Async](https://img.shields.io/badge/Async-Await-orange.svg)
 ![India Focus](https://img.shields.io/badge/Focus-India%20Market-saffron.svg)
 
@@ -86,8 +86,7 @@ Output: Generates ranked prospects in JSON format
 
 score = 0.4*industry_match + 0.3*funding_signal + 0.2*hiring_signal + 0.1*tech_match
 📁 Project Structure
-bash
-Copy code
+
 prospect-search-agent/
 ├── main.py                 # Main agent script with async orchestration
 ├── icp_config.yaml         # ICP configuration (India-optimized)
