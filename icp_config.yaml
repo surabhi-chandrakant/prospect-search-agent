@@ -1,0 +1,10 @@
+revenue_min: 1000000
+revenue_max: 100000000
+employee_count_min: 20
+industry: ["Information Technology & Services", "IT Services", "Software", "B2B Software", "FinTech", "SaaS", "Technology", "Computer Software"]
+geography: ["INDIA"]
+keywords: ["AI", "data analytics", "automation", "machine learning", "cloud", "tech", "digital"]
+signals:
+  funding: true
+  hiring_data_roles: true
+  tech_stack: ["Snowflake", "AWS", "Google Cloud", "Azure"]

@@ -1,0 +1,727 @@
+[
+  {
+    "company_name": "Infosys",
+    "domain": "infosys.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 300000,
+    "location": "Bengaluru, Karnataka, India",
+    "funding_stage": "Public",
+    "contacts": [],
+    "signals": {
+      "new_funding": true
+    },
+    "source": [
+      "Apollo",
+      "Crunchbase"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "company_name": "HCLTech",
+    "domain": "hcltech.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 223000,
+    "location": "Noida, Uttar Pradesh, India",
+    "funding_stage": "Public",
+    "contacts": [],
+    "signals": {
+      "new_funding": true
+    },
+    "source": [
+      "Apollo",
+      "Crunchbase"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "company_name": "Tech Mahindra",
+    "domain": "techmahindra.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 149000,
+    "location": "Pune, Maharashtra, India",
+    "funding_stage": "Public",
+    "contacts": [],
+    "signals": {
+      "new_funding": true
+    },
+    "source": [
+      "Apollo",
+      "Crunchbase"
+    ],
+    "confidence": 0.7
+  },
+  {
+    "company_name": "Tata Consultancy Services",
+    "domain": "tcs.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 608000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": "Public",
+    "contacts": [],
+    "signals": {
+      "new_funding": false
+    },
+    "source": [
+      "Apollo",
+      "Crunchbase"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "Wipro",
+    "domain": "wipro.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 234000,
+    "location": "Bengaluru, Karnataka, India",
+    "funding_stage": "Public",
+    "contacts": [],
+    "signals": {
+      "new_funding": false
+    },
+    "source": [
+      "Apollo",
+      "Crunchbase"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "Flipkart",
+    "domain": "flipkart.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 22000,
+    "location": "Bengaluru, Karnataka, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {
+      "recent_hiring": false,
+      "job_count": 0,
+      "location": "India"
+    },
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "LTIMindtree",
+    "domain": "ltimindtree.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 85000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "L&T Technology Services",
+    "domain": "ltts.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 22000,
+    "location": "Vadodara, Gujarat, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "Swiggy",
+    "domain": "swiggy.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 5500,
+    "location": "Bengaluru, Karnataka, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "Tata Technologies",
+    "domain": "tatatechnologies.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 13000,
+    "location": "Pune, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "Zoho",
+    "domain": "zoho.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 16000,
+    "location": "Chennai, Tamil Nadu, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "Infosys BPM",
+    "domain": "infosysbpm.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 61000,
+    "location": "Bengaluru, Karnataka, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "Myntra",
+    "domain": "myntra.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 17000,
+    "location": "Bengaluru, Karnataka, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "LTI - Larsen & Toubro Infotech",
+    "domain": "lntinfotech.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 24000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "Persistent Systems",
+    "domain": "persistent.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 22000,
+    "location": "Pune, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "Hexaware Technologies",
+    "domain": "hexaware.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 32000,
+    "location": "Navi Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "Zomato",
+    "domain": "zomato.com",
+    "revenue": null,
+    "industry": "information technology & services",
+    "employee_count": 4000,
+    "location": "Gurugram, Haryana, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.4
+  },
+  {
+    "company_name": "Accenture",
+    "domain": "accenture.com",
+    "revenue": null,
+    "industry": "management consulting",
+    "employee_count": 801000,
+    "location": "Bengaluru, Karnataka, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Tata Motors",
+    "domain": "tatamotors.com",
+    "revenue": null,
+    "industry": "automotive",
+    "employee_count": 74000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Confidential Careers",
+    "domain": "confidential.careers",
+    "revenue": null,
+    "industry": "staffing & recruiting",
+    "employee_count": 42000,
+    "location": "Gurugram, Haryana, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Tata Group",
+    "domain": "tata.com",
+    "revenue": null,
+    "industry": "executive office",
+    "employee_count": 1028000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Reliance Industries Limited",
+    "domain": "ril.com",
+    "revenue": null,
+    "industry": "oil & energy",
+    "employee_count": 347000,
+    "location": "Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Larsen & Toubro",
+    "domain": "larsentoubro.com",
+    "revenue": null,
+    "industry": "executive office",
+    "employee_count": 55000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {
+      "recent_hiring": false,
+      "job_count": 0,
+      "location": "India"
+    },
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "ITC Limited",
+    "domain": "itcportal.com",
+    "revenue": null,
+    "industry": "mechanical or industrial engineering",
+    "employee_count": 38000,
+    "location": "Kolkata, West Bengal, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "ICICI Bank",
+    "domain": "icicibank.com",
+    "revenue": null,
+    "industry": "banking",
+    "employee_count": 188000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "State Bank of India",
+    "domain": "sbi.co.in",
+    "revenue": null,
+    "industry": "banking",
+    "employee_count": 232000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {
+      "recent_hiring": false,
+      "job_count": 0,
+      "location": "India"
+    },
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "HDFC Bank",
+    "domain": "hdfcbank.com",
+    "revenue": null,
+    "industry": "banking",
+    "employee_count": 215000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "KPMG India",
+    "domain": "kpmg.com",
+    "revenue": null,
+    "industry": "management consulting",
+    "employee_count": 30000,
+    "location": "Gurugram, Haryana, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Aditya Birla Group",
+    "domain": "adityabirla.com",
+    "revenue": null,
+    "industry": "executive office",
+    "employee_count": 187000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {
+      "recent_hiring": false,
+      "job_count": 0,
+      "location": "India"
+    },
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "The Economic Times",
+    "domain": "economictimes.com",
+    "revenue": null,
+    "industry": "publishing",
+    "employee_count": 1400,
+    "location": "Noida, Uttar Pradesh, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Adani Group",
+    "domain": "adani.com",
+    "revenue": null,
+    "industry": "utilities",
+    "employee_count": 48000,
+    "location": "Ahmedabad, Gujarat, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "GeeksforGeeks",
+    "domain": "geeksforgeeks.org",
+    "revenue": null,
+    "industry": "education management",
+    "employee_count": 1400,
+    "location": "Noida, Uttar Pradesh, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Axis Bank",
+    "domain": "axisbank.com",
+    "revenue": null,
+    "industry": "banking",
+    "employee_count": 105000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Tata Projects",
+    "domain": "tataprojects.com",
+    "revenue": null,
+    "industry": "construction",
+    "employee_count": 20000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Tata Steel",
+    "domain": "tatasteel.com",
+    "revenue": null,
+    "industry": "mining & metals",
+    "employee_count": 122000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "PwC India",
+    "domain": "pwc.in",
+    "revenue": null,
+    "industry": "management consulting",
+    "employee_count": 30000,
+    "location": "Kolkata, West Bengal, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "SUN PHARMA",
+    "domain": "sunpharma.com",
+    "revenue": null,
+    "industry": "pharmaceuticals",
+    "employee_count": 410,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Mahindra Group",
+    "domain": "mahindra.com",
+    "revenue": null,
+    "industry": "executive office",
+    "employee_count": 260000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "BYJU'S",
+    "domain": "byjus.com",
+    "revenue": null,
+    "industry": "e-learning",
+    "employee_count": 21000,
+    "location": "Bengaluru, Karnataka, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Cipla",
+    "domain": "cipla.com",
+    "revenue": null,
+    "industry": "pharmaceuticals",
+    "employee_count": 28000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {
+      "recent_hiring": false,
+      "job_count": 0,
+      "location": "India"
+    },
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "IndusInd Bank",
+    "domain": "indusind.com",
+    "revenue": null,
+    "industry": "banking",
+    "employee_count": 46000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Paytm",
+    "domain": "paytm.com",
+    "revenue": null,
+    "industry": "financial services",
+    "employee_count": 9800,
+    "location": "Noida, Uttar Pradesh, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "airtel",
+    "domain": "airtel.cd",
+    "revenue": null,
+    "industry": "telecommunications",
+    "employee_count": 4200,
+    "location": "Gurugram, Haryana, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "IDFC FIRST Bank",
+    "domain": "idfcfirstbank.com",
+    "revenue": null,
+    "industry": "banking",
+    "employee_count": 42000,
+    "location": "Mumbai, Maharashtra, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Mechanical Engineering World",
+    "domain": "engineeringlearner.com",
+    "revenue": null,
+    "industry": "e-learning",
+    "employee_count": 6100,
+    "location": "India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  },
+  {
+    "company_name": "Dr. Reddy's Laboratories",
+    "domain": "drreddys.com",
+    "revenue": null,
+    "industry": "pharmaceuticals",
+    "employee_count": 28000,
+    "location": "Hyderabad, Telangana, India",
+    "funding_stage": null,
+    "contacts": [],
+    "signals": {},
+    "source": [
+      "Apollo"
+    ],
+    "confidence": 0.0
+  }
+]
